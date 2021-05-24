@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://jerrynh770.github.io/Project-J/kdmapper-from-thecruz.html",
+            "url": "https://jerrynh770.github.io/Project-J/kdmapper-from-thecruz.html",
+            "title": "KDMapper from TheCruZ",
+            "summary": "Original creator https://github.com/z175 Updated and improved by https://github.com/TheCruZ Tested from Windows 10 1607 to current Windows 10 21H1 (and up to v21354) ✔️ Update mainly done for UnknownCheats Forum https://www.unknowncheats.me/forum/members/1117395.html KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory Fixups: Hook \"NtQueryInformationAtom\" which exists in&hellip;",
+            "content_html": "<p>Original creator <a href=\"https://github.com/z175\">https://github.com/z175</a></p>\n<p>Updated and improved by <a href=\"https://github.com/TheCruZ\">https://github.com/TheCruZ</a></p>\n<p>Tested from <strong>Windows 10 1607</strong> to current <strong>Windows 10 21H1</strong> (and up to v21354) ✔️</p>\n<p>Update mainly done for UnknownCheats Forum <a href=\"https://www.unknowncheats.me/forum/members/1117395.html\" rel=\"nofollow\">https://www.unknowncheats.me/forum/members/1117395.html</a></p>\n<p>KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory</p>\n<p>Fixups:</p>\n<div class=\"snippet-clipboard-content position-relative\">\n<pre><code>Hook \"NtQueryInformationAtom\" which exists in all windows versions\nFixed unable to load /GS- compiled drivers\n</code></pre>\n</div>\n<p>Improvements:</p>\n<div class=\"snippet-clipboard-content position-relative\">\n<pre><code>Implemented NtLoadDriver and NtUnloadDriver for less traces\nPrevent load if \\Device\\Nal exists (Prevents BSOD)\nAutomatic clear PiDDBCacheTable\nHeader section skipped while copying driver to kernel\nAutomatic clear g_KernelHashBucketList\n</code></pre>\n</div>\n<p>Requirements:</p>\n<div class=\"snippet-clipboard-content position-relative\">\n<pre><code>Set Custom Driver Entry Point\nCreate a thread and return from driver entry fastest as you can to prevent unexpected calls\n</code></pre>\n</div>\n<p>Have Fun!!</p>",
+            "author": {
+                "name": "Jerrynh770"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-24T14:55:23+08:00",
+            "date_modified": "2021-05-24T14:55:23+08:00"
+        },
+        {
             "id": "https://jerrynh770.github.io/Project-J/hello-world.html",
             "url": "https://jerrynh770.github.io/Project-J/hello-world.html",
             "title": "hello world",

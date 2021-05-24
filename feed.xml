@@ -3,12 +3,58 @@
     <title>Project-J</title>
     <link href="https://jerrynh770.github.io/Project-J/feed.xml" rel="self" />
     <link href="https://jerrynh770.github.io/Project-J" />
-    <updated>2021-05-24T10:31:21+08:00</updated>
+    <updated>2021-05-24T14:55:23+08:00</updated>
     <author>
         <name>Jerrynh770</name>
     </author>
     <id>https://jerrynh770.github.io/Project-J</id>
 
+    <entry>
+        <title>KDMapper from TheCruZ</title>
+        <author>
+            <name>Jerrynh770</name>
+        </author>
+        <link href="https://jerrynh770.github.io/Project-J/kdmapper-from-thecruz.html"/>
+        <id>https://jerrynh770.github.io/Project-J/kdmapper-from-thecruz.html</id>
+
+        <updated>2021-05-24T14:55:23+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Original creator https://github.com/z175 Updated and improved by https://github.com/TheCruZ Tested from Windows 10 1607 to current Windows 10 21H1 (and up to v21354) ✔️ Update mainly done for UnknownCheats Forum https://www.unknowncheats.me/forum/members/1117395.html KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory Fixups: Hook "NtQueryInformationAtom" which exists in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Original creator <a href="https://github.com/z175">https://github.com/z175</a></p>
+<p>Updated and improved by <a href="https://github.com/TheCruZ">https://github.com/TheCruZ</a></p>
+<p>Tested from <strong>Windows 10 1607</strong> to current <strong>Windows 10 21H1</strong> (and up to v21354) ✔️</p>
+<p>Update mainly done for UnknownCheats Forum <a href="https://www.unknowncheats.me/forum/members/1117395.html" rel="nofollow">https://www.unknowncheats.me/forum/members/1117395.html</a></p>
+<p>KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory</p>
+<p>Fixups:</p>
+<div class="snippet-clipboard-content position-relative">
+<pre><code>Hook "NtQueryInformationAtom" which exists in all windows versions
+Fixed unable to load /GS- compiled drivers
+</code></pre>
+</div>
+<p>Improvements:</p>
+<div class="snippet-clipboard-content position-relative">
+<pre><code>Implemented NtLoadDriver and NtUnloadDriver for less traces
+Prevent load if \Device\Nal exists (Prevents BSOD)
+Automatic clear PiDDBCacheTable
+Header section skipped while copying driver to kernel
+Automatic clear g_KernelHashBucketList
+</code></pre>
+</div>
+<p>Requirements:</p>
+<div class="snippet-clipboard-content position-relative">
+<pre><code>Set Custom Driver Entry Point
+Create a thread and return from driver entry fastest as you can to prevent unexpected calls
+</code></pre>
+</div>
+<p>Have Fun!!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>hello world</title>
         <author>
