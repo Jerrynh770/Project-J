@@ -3,7 +3,7 @@
     <title>Project-J</title>
     <link href="https://jerrynh770.github.io/Project-J/feed.xml" rel="self" />
     <link href="https://jerrynh770.github.io/Project-J" />
-    <updated>2021-05-24T14:55:23+08:00</updated>
+    <updated>2021-05-24T15:10:09+08:00</updated>
     <author>
         <name>Jerrynh770</name>
     </author>
@@ -63,9 +63,17 @@ Create a thread and return from driver entry fastest as you can to prevent unexp
         <link href="https://jerrynh770.github.io/Project-J/hello-world.html"/>
         <id>https://jerrynh770.github.io/Project-J/hello-world.html</id>
 
-        <updated>2021-05-24T10:31:21+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-05-24T15:10:09+08:00</updated>
+            <summary>
+                <![CDATA[
+                    START FROM 2021/5/24
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>START FROM <span style="color: #000000;">2021/5/24</span></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Project T</title>
