@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jerrynh770.github.io/Project-J/sitemap.xml
