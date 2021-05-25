@@ -3,12 +3,35 @@
     <title>Project-J</title>
     <link href="https://jerrynh770.github.io/Project-J/feed.xml" rel="self" />
     <link href="https://jerrynh770.github.io/Project-J" />
-    <updated>2021-05-25T08:53:56+08:00</updated>
+    <updated>2021-05-25T09:05:49+08:00</updated>
     <author>
         <name>Jerrynh770</name>
     </author>
     <id>https://jerrynh770.github.io/Project-J</id>
 
+    <entry>
+        <title>About Zero day attack</title>
+        <author>
+            <name>Jerrynh770</name>
+        </author>
+        <link href="https://jerrynh770.github.io/Project-J/about-zero-day-attack.html"/>
+        <id>https://jerrynh770.github.io/Project-J/about-zero-day-attack.html</id>
+
+        <updated>2021-05-25T09:05:49+08:00</updated>
+            <summary>
+                <![CDATA[
+                    A zero-day (also known as 0-day) is a computer-software vulnerability unknown to those who should be interested in its mitigation (including the vendor of the target software). Until the vulnerability is mitigated, hackers can exploit it to adversely affect programs, data, additional computers or a network. An exploit directed at a zero-day is called a zero-day&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A <strong>zero-day</strong> (also known as <strong>0-day</strong>) is a computer-software <a href="https://en.wikipedia.org/wiki/Vulnerability_(computing)" title="">vulnerability</a> unknown to those who should be interested in its mitigation (including the vendor of the target software). Until the vulnerability is mitigated, <a href="https://en.wikipedia.org/wiki/Hacker" title="Security and safety features new to Windows Vista">hackers</a> can <a href="https://en.wikipedia.org/wiki/Exploit_(computer_security)" title="">exploit</a> it to adversely affect programs, data, additional computers or a network.<sup id="cite_ref-1" class="reference"></sup> An exploit directed at a zero-day is called a <strong>zero-day exploit</strong>, or <strong>zero-day attack.</strong></p>
+<p>The term "zero-day" originally referred to the number of days since a new piece of software was released to the public, so "zero-day software" was obtained by hacking into a developer's computer before release. Eventually the term was applied to the vulnerabilities that allowed this hacking, and to the number of days that the vendor has had to fix them.<sup id="cite_ref-2" class="reference"></sup><sup id="cite_ref-3" class="reference"></sup><sup id="cite_ref-4" class="reference"></sup> Once the vendor learns of the vulnerability, they will usually create <a href="https://en.wikipedia.org/wiki/Patch_(computing)" title="Patch (computing)">patches</a> or advise <a href="https://en.wikipedia.org/wiki/Workaround" title="Workaround">workarounds</a> to mitigate it.</p>
+<p>The more recently that the vendor has become aware of the vulnerability, the more likely it is that no fix or mitigation has been developed. Once a fix is developed, the chance of the exploit succeeding decreases as more users apply the fix over time. For zero-day exploits, unless the vulnerability is inadvertently fixed, such as by an unrelated update that happens to fix the vulnerability, the probability that a user has applied a vendor-supplied patch that fixes the problem is zero, so the exploit would remain available. Zero-day attacks are a severe <a href="https://en.wikipedia.org/wiki/Threat_(computer)" title="Threat (computer)">threat</a>.<sup id="cite_ref-5" class="reference"></sup></p>
+<p>Copy from <a href="https://en.wikipedia.org/wiki/Zero-day_(computing)" target="_blank" rel="noopener noreferrer">wiki</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>KDMapper from TheCruZ</title>
         <author>
