@@ -3,7 +3,7 @@
     <title>Project-J</title>
     <link href="https://jerrynh770.github.io/Project-J/feed.xml" rel="self" />
     <link href="https://jerrynh770.github.io/Project-J" />
-    <updated>2021-05-25T08:48:39+08:00</updated>
+    <updated>2021-05-25T08:53:56+08:00</updated>
     <author>
         <name>Jerrynh770</name>
     </author>
@@ -83,7 +83,7 @@ Create a thread and return from driver entry fastest as you can to prevent unexp
         <link href="https://jerrynh770.github.io/Project-J/project-t.html"/>
         <id>https://jerrynh770.github.io/Project-J/project-t.html</id>
 
-        <updated>2021-05-24T10:07:07+08:00</updated>
+        <updated>2021-05-25T08:53:56+08:00</updated>
             <summary>
                 <![CDATA[
                      The Project T is a Threat Emulation and Red Teaming Framework built to be easy to use. The Project T is Feature Rich! Including, Keystroke Logging, Reflective DLL Injection, Reverse Shell, Password Recovery, etc. Remote Hacker Probe Core is open source and constantly improved.
@@ -100,9 +100,10 @@ Create a thread and return from driver entry fastest as you can to prevent unexp
 <br>Fast and Lightweight, Remote Hacker Probe is coded in Java meaning it will run anywhere in a JRE and Client in C++ for Native Windows.
 <br>The Remote Hacker Probe had 2 versions, Open Source and Professional Version. That have been merged into one and the source code of the Professional Version is also now open source. For more information click here.
 <br>
-<br>Please do not use the Remote Hacker Probe or any Software for Black Hat Activity. The Remote Hacker Probe is made for Authorized Penetration testing, Demonstrations and Reasearch. The Author is not responsible for any sort of misuse or damage caused by the program.
+<br>Please do not use the Project T or any Software for Black Hat Activity. The Remote Hacker Probe is made for Authorized Penetration testing, Demonstrations and Reasearch. The Author is not responsible for any sort of misuse or damage caused by the program.
 <br>
-<br>
+<br>Thanks for&nbsp;
+<a href="https://github.com/quantumcored" target="_blank">QuantumCored</a><br><br>
   </p>
             ]]>
         </content>

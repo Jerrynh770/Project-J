@@ -42,14 +42,14 @@
             "url": "https://jerrynh770.github.io/Project-J/project-t.html",
             "title": "Project T",
             "summary": " The Project T is a Threat Emulation and Red Teaming Framework built to be easy to use. The Project T is Feature Rich! Including, Keystroke Logging, Reflective DLL Injection, Reverse Shell, Password Recovery, etc. Remote Hacker Probe Core is open source and constantly improved.",
-            "content_html": "\n  <p>\n    The Project T is a Threat Emulation and Red Teaming Framework built to be easy to use.\n<br>\n<br>The Project T is Feature Rich! Including, Keystroke Logging, Reflective DLL Injection, Reverse Shell, Password Recovery, etc.\n<br>Remote Hacker Probe Core is open source and constantly improved. and is no longer being updated or worked on.\n<br>Fast and Lightweight, Remote Hacker Probe is coded in Java meaning it will run anywhere in a JRE and Client in C++ for Native Windows.\n<br>The Remote Hacker Probe had 2 versions, Open Source and Professional Version. That have been merged into one and the source code of the Professional Version is also now open source. For more information click here.\n<br>\n<br>Please do not use the Remote Hacker Probe or any Software for Black Hat Activity. The Remote Hacker Probe is made for Authorized Penetration testing, Demonstrations and Reasearch. The Author is not responsible for any sort of misuse or damage caused by the program.\n<br>\n<br>\n  </p>",
+            "content_html": "\n  <p>\n    The Project T is a Threat Emulation and Red Teaming Framework built to be easy to use.\n<br>\n<br>The Project T is Feature Rich! Including, Keystroke Logging, Reflective DLL Injection, Reverse Shell, Password Recovery, etc.\n<br>Remote Hacker Probe Core is open source and constantly improved. and is no longer being updated or worked on.\n<br>Fast and Lightweight, Remote Hacker Probe is coded in Java meaning it will run anywhere in a JRE and Client in C++ for Native Windows.\n<br>The Remote Hacker Probe had 2 versions, Open Source and Professional Version. That have been merged into one and the source code of the Professional Version is also now open source. For more information click here.\n<br>\n<br>Please do not use the Project T or any Software for Black Hat Activity. The Remote Hacker Probe is made for Authorized Penetration testing, Demonstrations and Reasearch. The Author is not responsible for any sort of misuse or damage caused by the program.\n<br>\n<br>Thanks for&nbsp;\n<a href=\"https://github.com/quantumcored\" target=\"_blank\">QuantumCored</a><br><br>\n  </p>",
             "author": {
                 "name": "Jerrynh770"
             },
             "tags": [
             ],
             "date_published": "2021-05-24T10:07:07+08:00",
-            "date_modified": "2021-05-24T10:07:07+08:00"
+            "date_modified": "2021-05-25T08:53:56+08:00"
         }
     ]
 }
