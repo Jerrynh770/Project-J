@@ -3,7 +3,7 @@
     <title>Project-J</title>
     <link href="https://jerrynh770.github.io/Project-J/feed.xml" rel="self" />
     <link href="https://jerrynh770.github.io/Project-J" />
-    <updated>2021-05-24T15:10:09+08:00</updated>
+    <updated>2021-05-25T08:46:49+08:00</updated>
     <author>
         <name>Jerrynh770</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://jerrynh770.github.io/Project-J/kdmapper-from-thecruz.html"/>
         <id>https://jerrynh770.github.io/Project-J/kdmapper-from-thecruz.html</id>
 
-        <updated>2021-05-24T14:55:23+08:00</updated>
+        <updated>2021-05-25T08:46:49+08:00</updated>
             <summary>
                 <![CDATA[
-                    Original creator https://github.com/z175 Updated and improved by https://github.com/TheCruZ Tested from Windows 10 1607 to current Windows 10 21H1 (and up to v21354) ✔️ Update mainly done for UnknownCheats Forum https://www.unknowncheats.me/forum/members/1117395.html KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory Fixups: Hook "NtQueryInformationAtom" which exists in&hellip;
+                    Original creator https://github.com/z175 Updated and improved by https://github.com/TheCruZ Tested from Windows 10 1607 to current Windows 10 21H1 (and up to v21354) ✔️ Update mainly done for UnknownCheats Forum https://www.unknowncheats.me/forum/members/1117395.html KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory Fixups: Hook "NtQueryInformationAtom" which exists&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Original creator <a href="https://github.com/z175">https://github.com/z175</a></p>
+                <p>Original creator <a href="https://github.com/z175">https://github.com/z175</a></p>
 <p>Updated and improved by <a href="https://github.com/TheCruZ">https://github.com/TheCruZ</a></p>
 <p>Tested from <strong>Windows 10 1607</strong> to current <strong>Windows 10 21H1</strong> (and up to v21354) ✔️</p>
 <p>Update mainly done for UnknownCheats Forum <a href="https://www.unknowncheats.me/forum/members/1117395.html" rel="nofollow">https://www.unknowncheats.me/forum/members/1117395.html</a></p>
